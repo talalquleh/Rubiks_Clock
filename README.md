@@ -1,4 +1,4 @@
-# Rubic_Clock
+# Rubics_Clock
 a simple game using Java <br/>
 <h2>Task Description</h2>
 Create a game, which implements the Rubik clock. In this game there
