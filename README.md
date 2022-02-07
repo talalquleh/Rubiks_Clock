@@ -1,5 +1,5 @@
 # Rubiks_Clock
-a simple game using Java <br/>
+A simple game using Java <br/>
 <h2>Task Description</h2>
 Create a game, which implements the Rubik clock. In this game there
 are 9 clocks. Each clock can show a time between 1 and 12 (hour only).
